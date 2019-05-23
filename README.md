@@ -28,7 +28,7 @@ Address: 0x7fda60801000
 Deallocate: Hello
 Address: 0x7fda60801000
 ```
-Three example input files have been provided: traceSmall.txt, traceMedium.txt, traceLarge.txt
+Three example input files have been provided: [traceSmall](traceSmall.txt), [traceMedium](traceMedium.txt), [traceLarge](traceLarge.txt)
 Here is an example of using an input file:
 ```bash
 $ ./project -h 128000 -a best < traceLarge.txt 
